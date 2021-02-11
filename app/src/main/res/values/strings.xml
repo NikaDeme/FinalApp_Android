@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Final_App</string>
+    <string name="App_Description">გამონათქვამები და რჩევები</string>
+    <string name="Worker">ნიკა დემეტრაშვილი</string>
+    <string name="Registration_Name">რეგისტრაცია</string>
+    <string name="Email_Hint">მეილი</string>
+    <string name="Password_Hint">პაროლი</string>
+    <string name="Register_Button">დარეგისტრირება</string>
+    <string name="Login_Button">სისტემაში შესვლა</string>
+    <string name="Login_Title">ავტორიზაცია</string>
+    <string name="Go_Back">უკან დაბრუნება</string>
+    <string name="Gamonatqvamebi">გამონათქვამები</string>
+    <string name="Rchevebi">რჩევები</string>
+    <string name="Ilia">ილია ჭავჭავაძე</string>
+    <string name="Vaja">ვაჟა ფშაველა</string>
+</resources>
